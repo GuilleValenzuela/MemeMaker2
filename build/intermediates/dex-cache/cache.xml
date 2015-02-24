@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-db5470cf20d0bdc89363628871daed93f360841d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\build\intermediates\pre-dexed\debug\classes-5964a8c847b33a8dc04ec71d97add4f35763c4d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Guillermo Valenzuela\.android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1eee660cede353393e5560b3fe97c39e843e34f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\build\intermediates\pre-dexed\debug\commons-io-2.4-d466608181921ba2f2093e6730f8fb18045022c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-02211687a0a1929c247e501ac08d774be28378ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="C:\Users\Guillermo Valenzuela\AndroidstudioProjects\mememaker\app\build\intermediates\pre-dexed\debug\classes-2535e12dbadf9a77f3126821a91f3cc9bd48f054.jar" />
+    </item>
+
+</items>
